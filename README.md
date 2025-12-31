@@ -79,3 +79,7 @@ Excel / CSV Dataset – Data source
 DAX – Measures and calculated fields
 
 Data Modeling & Cleaning
+
+
+<img width="1500" height="623" alt="Dashboard_SS" src="https://github.com/user-attachments/assets/cdac1875-bccb-4f81-bc7a-263c2e8059b8" />
+
